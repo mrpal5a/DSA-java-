@@ -16,5 +16,6 @@ public class swapValues{
         System.out.print("Enter the value of b ");
         int b = sc.nextInt();
         swapFunction(a, b);
+        sc.close();
     }
 }

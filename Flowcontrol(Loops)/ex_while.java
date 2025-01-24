@@ -29,5 +29,6 @@ public class ex_while{
             n++;
         }
         System.out.print("Sum of N natural numbers is " + sum);
+        sc.close();
     }
 }

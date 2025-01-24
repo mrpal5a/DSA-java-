@@ -11,5 +11,6 @@ public class fun_Overloading_param{
         Scanner sc = new Scanner(System.in);
         int add = sum(5,4,8);
         System.out.print("Sum is " +add);
+        sc.close();
     }
 }

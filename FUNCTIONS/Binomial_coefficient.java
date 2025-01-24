@@ -21,5 +21,6 @@ public class Binomial_coefficient{
         int r = sc.nextInt();
         int coefficient = Binomial(n, r);
         System.out.println("Binomial coefficient is " +coefficient);
+        sc.close();
     }
 }

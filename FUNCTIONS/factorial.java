@@ -16,5 +16,6 @@ public class factorial{
         int a = sc.nextInt();
         int fac = fact(a);
         System.out.println("Factorial of " +a+ " is " +fac);
+        sc.close();
     }
 }

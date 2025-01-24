@@ -11,5 +11,6 @@ public class Multiply_function{
         int b = sc.nextInt();
         int multi = multiply(a,b);
         System.out.println("Multiplication of " +a+ " and " +b+ " is " +multi);
+        sc.close();
     }
 }

@@ -20,6 +20,6 @@ public class prime_num {
                 System.out.println(n + " is not prime");
             }
         }
-        
+        sc.close();
     }
 }

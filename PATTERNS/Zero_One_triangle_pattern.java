@@ -31,5 +31,6 @@ public class Zero_One_triangle_pattern{
                 System.out.println();
             }
         }
+        sc.close();
     }
 }

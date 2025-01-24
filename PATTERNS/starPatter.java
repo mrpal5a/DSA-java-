@@ -8,5 +8,6 @@ public class starPatter{
             }
             System.out.println();
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class break_stat {
             }
             System.out.println(n);
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class FlyodsTriangle{
             }
             System.out.println();
         }
+        sc.close();
     }
 }

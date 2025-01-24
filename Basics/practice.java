@@ -31,5 +31,6 @@ public class practice {
         String less = "You don't have fever";
         String ans = (temp > 100)? more: less;
         System.out.println(ans);
+        sc.close();
     }
 }

@@ -7,6 +7,6 @@ public class operators {
         int input = sc.nextInt();
         String ODDorEVEN = (input % 2 == 0)?"Even":"Odd";
         System.out.println(ODDorEVEN);
-        
+        sc.close();   
     }
 }

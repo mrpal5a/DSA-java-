@@ -30,5 +30,6 @@ public class weekDays {
         default: System.out.println("Please enter the valid day number");
             break;
        }
+       sc.close();
     }
 }

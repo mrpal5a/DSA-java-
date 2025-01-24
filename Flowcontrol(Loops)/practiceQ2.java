@@ -20,5 +20,6 @@ public class practiceQ2 {
         }
         System.out.println("Sum of all odd integers is: " +odd);
         System.out.println("Sumg of all even integers is: " +even);
+        sc.close();
     }
 }

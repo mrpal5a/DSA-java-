@@ -9,6 +9,7 @@ public class calculator {
         char operator = input.next().charAt(0);
         System.out.println("Enter the second value");
         int second = input.nextInt();
+        input.close();
         switch (operator) {
             case '+': System.out.println("Here is the sum of two numbers " + (first +  second));
                 break;

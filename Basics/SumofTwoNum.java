@@ -52,5 +52,6 @@ public class SumofTwoNum {
         long h = 12423423;
         System.out.print((c + d * e - f /g %h)); // output is 342334.29476888356 means it is automatically converted to DOUBLE data type
         //means whole answer is converted to the LARGEST data type available in question that is DOUBLE
+        sc.close();
     }
 }

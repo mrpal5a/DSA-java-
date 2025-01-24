@@ -47,6 +47,6 @@ public class ex_for {
             reversed_number = (reversed_number * 10) + last_digit;
         }
         System.out.println(reversed_number);
-
+        sc.close();
     }
 }
