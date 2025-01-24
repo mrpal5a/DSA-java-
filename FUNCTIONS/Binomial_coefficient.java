@@ -8,6 +8,7 @@ public class Binomial_coefficient{
         return f;
     }
     public static int Binomial(int n, int r){
+        // (n,r) = n!/(r! * (n - r)!)
         int bin = factorial(n)/(factorial(r)* factorial( n - r));
         return bin;
     }
