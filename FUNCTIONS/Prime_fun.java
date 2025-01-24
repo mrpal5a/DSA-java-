@@ -1,7 +1,7 @@
 import java.util.*;
 public class Prime_fun {
     public static boolean isPrime(int n){
-        boolean isPrime = true;
+        // boolean isPrime = true;
         if(n == 2){
             // isPrime = true; 
             return true; // we can directly retrun true so that below code will not run for this case means it will save our time
