@@ -17,7 +17,7 @@ public class BinToDec{
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Decimal number to convert in binary ");
         int number = sc.nextInt();
-        System.out.println(BintoDec(number));
+        System.out.println("Decimal of " +number+ " is " +BintoDec(number));
         sc.close();
     }
 }
