@@ -1,4 +1,4 @@
-package PatternsADV;
+
 
 public class hollowRectangle {
     public static void hollow_Rectangle(int row, int col){

@@ -1,4 +1,4 @@
-package PatternsADV;
+
 
 public class Inverted_half {
     public static void half_pyramid(int n){
