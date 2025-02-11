@@ -48,7 +48,7 @@ public class StringBasics {
         // equals method for string comparison
         //EQUALS method boolean value return krta hai
         // yeh inbuilt equals method khali value compare krta hai, memory location ko nahi dekhta hai
-        //isiliye dono cases mai true return kiya
+        //isiliye dono cases mai true return kiya 
 
         System.out.println(s1.equals(s2)); //true
         System.out.println(s1.equals(s3)); //true
